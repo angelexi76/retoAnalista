@@ -1,0 +1,27 @@
+body{
+    background :linear-gradient(45deg, #BB1881, #F88B50),
+    font-family sans-serif ;
+   
+}
+
+
+.form{
+background-color: white;
+margin-left: 30%;
+border-color: black;
+}
+
+.send{
+
+ background-color: #d35e1b ;
+ margin-left: 7%;
+}
+ul{
+list-style: none;
+padding-bottom: 2px;
+
+}
+.logo{
+
+    margin-left: 2%;
+}
